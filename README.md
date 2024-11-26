@@ -29,10 +29,6 @@ The **Bank Management System** is a robust desktop application built using **Jav
 Follow these steps to set up the project locally:
 
 ### 1. Clone the Repository:
-```bash
-git clone https://github.com/username/bank-management-system.git
-cd bank-management-system
-``` 
 2. Import the Project:
 
     Open IntelliJ IDEA.
